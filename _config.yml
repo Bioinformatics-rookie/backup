@@ -181,5 +181,5 @@ theme: diaspora
 
 deploy:
   type: git
-  repo: https://github.com/Bioinformatics-rookie/Bioinformatics-rookie.github.io
+  repo: git@github.com:Bioinformatics-rookie/Bioinformatics-rookie.github.io.git
   branch: master
